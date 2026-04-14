@@ -13,7 +13,7 @@ const members = [
 "Md Shohel Hossen","Kawsar Alam Tawhid","Toriqul Islam Sachal",
 "Tanvir Kamal","Jamiul Uddin Choyon","Anwar Hossain Ringku",
 "Md Nure Alam Tareq","Jahir Bhuiyan","Sayfa Isha",
-"Dr Mamunur Rashid","Sulaiman Rubel","Santa Hossain",
+"Mamunur Rashid","Sulaiman Rubel","Santa Hossain",
 "Iqbal Hossain","Ibrahim khan","Rumman","Siam Bin Zahirul",
 "GM Morshed Hossain","Md Zakir Hossain"
 ];
